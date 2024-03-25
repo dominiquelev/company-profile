@@ -24,7 +24,7 @@ const HeroSection: React.FC = () => {
           width="1441"
           height="668"
           className="h-screen w-screen object-cover"
-          loading="lazy"
+          
         />
       </div>
     </section>

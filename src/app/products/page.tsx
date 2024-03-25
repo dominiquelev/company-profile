@@ -42,7 +42,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                 
                 />
               </div>
               <CardHeader>
@@ -69,7 +69,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                  
                 />
               </div>
               <CardHeader>
@@ -96,7 +96,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                  
                 />
               </div>
               <CardHeader>
@@ -128,7 +128,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                  
                 />
               </div>
               <CardHeader>
@@ -158,7 +158,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                  
                 />
               </div>
               <CardHeader>
@@ -189,7 +189,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                  
                 />
               </div>
               <CardHeader>
@@ -223,7 +223,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                 
                 />
               </div>
               <CardHeader>
@@ -254,7 +254,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                  
                 />
               </div>
               <CardHeader>
@@ -284,7 +284,7 @@ const Products: React.FC = () => {
                   layout="fill"
                   objectFit="cover"
                   className="rounded-t-lg shadow-md"
-                  loading="lazy"
+                  
                 />
               </div>
               <CardHeader>

@@ -25,12 +25,12 @@ const Products: React.FC = () => {
           <Card className="overflow-hidden">
             <div className="relative h-[200px] w-full">
               <Image
-                src="https://drive.google.com/uc?export=view&id=1H6zMSvc3m0VslcyfZc0MiN47sZAUayBT"
+                src="https://drive.google.com/uc?export=view&id=1H6zMSvc3m0VslcyfZc0MiN47sAUayBT"
                 alt="coffee beans"
                 layout="fill"
                 objectFit="cover"
                 className="rounded-t-lg shadow-md"
-                loading="lazy"
+                
               />
             </div>
             <CardHeader>
@@ -56,7 +56,7 @@ const Products: React.FC = () => {
                 layout="fill"
                 objectFit="cover"
                 className="rounded-t-lg shadow-md"
-                loading="lazy"
+                
               />
             </div>
             <CardHeader>
@@ -83,7 +83,7 @@ const Products: React.FC = () => {
                 layout="fill"
                 objectFit="cover"
                 className="rounded-t-lg shadow-md"
-                loading="lazy"
+                
               />
             </div>
             <CardHeader>

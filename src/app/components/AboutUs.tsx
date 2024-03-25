@@ -16,7 +16,7 @@ const AboutUs: React.FC = () => {
             alt="photo"
             width={577}
             height={577}
-            loading="lazy"
+            
           />
         </div>
         <div className="text-justify md:col-span-7 md:justify-end">
