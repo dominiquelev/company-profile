@@ -25,8 +25,8 @@ const Products: React.FC = () => {
           <Card className="overflow-hidden">
             <div className="relative h-[200px] w-full">
               <Image
-                src="https://drive.google.com/uc?export=view&id=1H6zMSvc3m0VslcyfZc0MiN47sAUayBT"
-                alt="coffee beans"
+                src="https://drive.google.com/uc?export=view&id=1H6zMSvc3m0VslcyfZc0MiN47sZAUayBT"
+                alt="roasted beans"
                 layout="fill"
                 objectFit="cover"
                 className="rounded-t-lg shadow-md"
@@ -52,7 +52,7 @@ const Products: React.FC = () => {
             <div className="relative h-[200px] w-full">
               <Image
                 src="https://drive.google.com/uc?export=view&id=1I8yN4_7FyK18Iey9MrRzDb9Lh-So39gV"
-                alt="coffee beans"
+                alt="manual brew"
                 layout="fill"
                 objectFit="cover"
                 className="rounded-t-lg shadow-md"
@@ -77,9 +77,8 @@ const Products: React.FC = () => {
           <Card className="overflow-hidden">
             <div className="relative h-[200px] w-full">
               <Image
-                src="https://drive.google.com/uc?export=view&id=1fZVh1XEuvjJ4YbANnrq0KF2bH6o-e7kF
-              "
-                alt="coffee beans"
+                src="https://drive.google.com/uc?export=view&id=1fZVh1XEuvjJ4YbANnrq0KF2bH6o-e7kF"
+                alt="greenbeans"
                 layout="fill"
                 objectFit="cover"
                 className="rounded-t-lg shadow-md"
